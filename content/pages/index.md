@@ -7,7 +7,7 @@ sections:
       Enjoy a stay at a spectacular original 18th Century barn fully restored
       yet with all the modern comforts.
     actions:
-      - label: Contact Me
+      - label: Contact Us
         url: /contact
         style: primary
     image: images/hero.png
