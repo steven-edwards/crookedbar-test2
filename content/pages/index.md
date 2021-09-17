@@ -123,7 +123,7 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Crooked Bar was a truly wonderful stay for us as a family. The beds
+          Crooked Barn was a truly wonderful stay for us as a family. The beds
           were great as were the views....
 
 
