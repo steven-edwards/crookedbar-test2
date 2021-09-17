@@ -10,7 +10,7 @@ sections:
     background_color: none
   - type: grid_section
     grid_items:
-      - title: What is your process?
+      - title: Do you have availability?
         content: >-
           It's important to me to fully understand your business and what you're
           trying to achieve. I will start with an interview and follow up with a
