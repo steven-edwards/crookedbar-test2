@@ -58,7 +58,7 @@ sections:
     title: What we offer
     subtitle: Crooked Bar
     features:
-      - title: Content Creation
+      - title: Cosy & Comfortable
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
