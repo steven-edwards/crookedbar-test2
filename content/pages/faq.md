@@ -25,11 +25,8 @@ sections:
           All bedding, pillows, sheets, duvets are supplied, washed, ironed and
           fresh ready for you when you arrive.
       - title: Is their WiFi?
-        content: >-
-          No product or service is too technical to learn and understand. Part
-          of our initial onboarding is an in-depth understanding of your
-          offerings, your target audience and your level of technical writing
-          needed.
+        content: |
+          Yes. High speed WiFi is included free as standard with all bookings.
       - title: How fast can we get started?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
