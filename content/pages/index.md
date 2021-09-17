@@ -76,10 +76,9 @@ sections:
         media_width: sixty
       - title: Stunning Views
         subtitle: 'Garden, Walks, Views... (Subtitle)'
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          With walks taking in miles and miles of stunning views, including
+          views across to Dartmoor. You're going to love the area......
         actions:
           - label: Learn More
             url: /about
