@@ -48,7 +48,7 @@ sections:
           With walks taking in miles and miles of stunning views, including
           views across to Dartmoor. You're going to love the area......
         actions:
-          - label: Learn More
+          - label: Find Out More
             url: /about
             style: secondary
             has_icon: true
