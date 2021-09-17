@@ -114,7 +114,7 @@ sections:
 
 
           **Gordon Norman,** *Glasgow, UK*
-        image: /images/feature-3.svg
+        image: /images/logo_small_icon_only.png
         image_position: left
         image_width: twenty-five
     grid_cols: two
