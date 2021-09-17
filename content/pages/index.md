@@ -141,12 +141,13 @@ sections:
         image: /images/feature-3.svg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: >
+          I love it when i stumble across a gem like this! Kudos to CB for going
+          above and beyond in providing a wonderfully relaxing stay! We loved it
+          so much we've already booked two weeks again for the end of the year!
 
 
-          **Gordon Norman,** *Web Designer, Local Business*
+          **Gordon Norman,** *Glasgow, UK*
         image: /images/feature-3.svg
         image_position: left
         image_width: twenty-five
