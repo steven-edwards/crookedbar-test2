@@ -20,6 +20,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
+    subtitle: Text. Here
   - type: features_section
     title: Take a closer look
     subtitle: Crooked Barn
