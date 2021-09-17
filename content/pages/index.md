@@ -92,10 +92,8 @@ sections:
         media_width: sixty
       - title: Stunning Garden
         subtitle: 'Lounging, cream tea, relaxing (Subtitle)'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: |
+          Content here describing the garden etc....
         actions:
           - label: See Past Work
             url: /faq
