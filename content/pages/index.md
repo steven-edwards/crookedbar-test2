@@ -55,7 +55,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: features_section
-    title: What we offer
+    title: Take a closer look
     subtitle: Crooked Bar
     features:
       - title: Cosy & Comfortable
