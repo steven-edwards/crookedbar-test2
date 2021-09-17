@@ -157,5 +157,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://crookedbar-test2-4674b.netlify.app"
+    "domain": "https://crookedbar-test2-4674b.netlify.app",
+    "favicon": "/images/favicon.ico"
 }
