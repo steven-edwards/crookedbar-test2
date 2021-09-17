@@ -122,12 +122,12 @@ sections:
         image: /images/feature-3.svg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: >
+          Crooked Bar was a truly wonderful stay for us as a family. The beds
+          were great as were the views....
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Miles Tone,** *North Yorkshire, UK*
         image: /images/feature-3.svg
         image_position: left
         image_width: twenty-five
