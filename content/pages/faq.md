@@ -24,7 +24,7 @@ sections:
         content: >
           All bedding, pillows, sheets, duvets are supplied, washed, ironed and
           fresh ready for you when you arrive.
-      - title: Is their WiFi?
+      - title: Is there WiFi?
         content: |
           Yes. High speed WiFi is included free as standard with all bookings.
       - title: How fast can we get started?
