@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Welcome to Crooked Barn!
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Enjoy a stay at a spectacular original 18th Century barn fully restored
+      yet with all the modern comforts.
     actions:
       - label: Contact Me
         url: /contact
