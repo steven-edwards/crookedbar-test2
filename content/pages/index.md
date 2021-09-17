@@ -32,7 +32,7 @@ sections:
           Enjoy a real open fire in a traditional setting. Watch Netflix on your
           own terms! More and more blurb can go here..........
         actions:
-          - label: See Writing Samples
+          - label: Have Questions?
             url: /faq
             style: primary
             has_icon: true
