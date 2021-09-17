@@ -119,7 +119,7 @@ sections:
 
 
           **Mary Deck,** *Portsmouth, UK*
-        image: /images/watercolor.png
+        image: /images/feature-3.svg
         image_position: left
         image_width: twenty-five
       - content: >-
