@@ -171,7 +171,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: 1 Stackbit Personal Theme
+  title: Crooked Barn offers a tranquil stay with 0.4 acres of garden, and with stunning views across to Dartmoor. You won't want to leave!
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
