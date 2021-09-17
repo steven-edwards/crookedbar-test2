@@ -28,20 +28,22 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![](/images/kitchen.jpg)
+![](/images/View%20over%20moors.jpg)
 
-A fully working AGA is the highlight as you walk into the beautiful open plan kitchen........Paragraph of text can go here.... 
+Stunning views over the moors.....
 
-## Bedrooms
+## Local Beaches
 
-![](/images/bedroom1.jpg)
+![](/images/local%20beach1.jpg)
 
-With 3 bedrooms (2 doubles and a spacious twin) there really is everything provided for any size of family / families.
+Just a 20 minute drive.....
 
 Extra paragraph of text....
 
-## Bathrooms
+## Outdoor Swimming
 
-![](/images/bathroom1.jpg)
+![](/images/local%20beach%202.jpg)
 
-Fully modernised bathroom (ensuite off of both double bedrooms)
+Fancy a dip bla bla bla...
+
+[Links can go here](/), full layout of text  /  images etc
