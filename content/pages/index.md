@@ -23,6 +23,8 @@ sections:
     subtitle: >-
       Enjoy a stay at a spectacular original 150+ year old barn, fully restored
       yet with all the modern comforts.
+    content: |
+      text
   - type: features_section
     title: Take a closer look
     subtitle: Crooked Barn
