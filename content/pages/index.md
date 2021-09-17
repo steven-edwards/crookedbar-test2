@@ -60,10 +60,9 @@ sections:
     features:
       - title: Cosy & Comfortable
         subtitle: Subtitle - indoor shot required
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          Enjoy a real open fire in a traditional setting. Watch Netflix on your
+          own terms! More and more blurb can go here..........
         actions:
           - label: See Writing Samples
             url: /faq
