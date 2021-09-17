@@ -87,7 +87,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-2.svg
+        image: /images/Rear with views across to Dartmoor.jpeg
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
