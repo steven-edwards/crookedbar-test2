@@ -24,7 +24,7 @@ sections:
         content: >
           All bedding, pillows, sheets, duvets are supplied, washed, ironed and
           fresh ready for you when you arrive.
-      - title: What if my business is technical?
+      - title: Is their WiFi?
         content: >-
           No product or service is too technical to learn and understand. Part
           of our initial onboarding is an in-depth understanding of your
