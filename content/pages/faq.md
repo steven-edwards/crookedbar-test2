@@ -27,7 +27,7 @@ sections:
       - title: Is there WiFi?
         content: |
           Yes. High speed WiFi is included free as standard with all bookings.
-      - title: How fast can we get started?
+      - title: How far is the barn from the coast?
         content: >-
           The onboarding process typically lasts 3-4 days and consists of an
           intro video call, an interview, a questionnaire and some back and
