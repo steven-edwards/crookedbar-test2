@@ -131,7 +131,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "We are currently running a special offer (this bar can be turned off!) [**Click here to find out more**](/pricing/)\n",
+        "anncmnt_content": "We are currently running a special offer (this bar can be turned off) [**Click here to find out more**](/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
