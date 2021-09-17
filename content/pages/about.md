@@ -28,19 +28,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+![](/images/kitchen.jpg)
 
-![A woman using a laptop](/images/about.jpg)
+A fully working AGA is the highlight as you walk into the beautiful open plan kitchen........Paragraph of text can go here.... 
 
-The only thing I love more than writing is the process of meeting a new client and figuring out together what needs to be written. Working on a freelance consulting basis exposes me to many types of companies with varied goals and methodologies, and keeps me up to date with all marketing tools and platforms.
+## Bedrooms
 
-## Credentials
+![](/images/bedroom1.jpg)
 
-I have a BA in English Literature and an MBA in Marketing from the University of California. I am also a certified campaign manager in all the major PPC platforms, and a staff writer in several industry publications.
+With 3 bedrooms (2 doubles and a spacious twin) there really is everything provided for any size of family / families.
 
-My 20 years of experience have taught me to effectively identify the audience for which I write, and explain complex concepts in a friendly and non-intimidating way.
+Extra paragraph of text....
 
+## Bathrooms
 
+![](/images/bathroom1.jpg)
 
-## Writing for Action
-
-I believe that each and every piece of writing should inspire an action that is connected to a tangible business goal. I will work with you to define our content KPIs, understand how to properly track and measure them, and hit our goals by creating effective messaging across all of your digital assets.
+Fully modernised bathroom (ensuite off of both double bedrooms)
