@@ -21,11 +21,9 @@ sections:
           Of course! We love dogs and have made extra special provision by
           including dog crates etc. Please enquire for further information.
       - title: Is bedding supplied?
-        content: >-
-          Depending on the scope and timeline of your content needs, we can work
-          on a retainer basis, an hour bank, or a per-project basis. Once I
-          understand your needs I will create a tailored proposal with several
-          options to choose from.
+        content: >
+          All bedding, pillows, sheets, duvets are supplied, washed, ironed and
+          fresh ready for you when you arrive.
       - title: What if my business is technical?
         content: >-
           No product or service is too technical to learn and understand. Part
