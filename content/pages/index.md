@@ -3,9 +3,6 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Crooked Barn!
-    subtitle: >-
-      Enjoy a stay at a spectacular original 18th Century barn fully restored
-      yet with all the modern comforts.
     actions:
       - label: Contact Us
         url: /contact
@@ -171,7 +168,9 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
 seo:
-  title: Crooked Barn offers a tranquil stay with 0.4 acres of garden, and with stunning views across to Dartmoor. You won't want to leave!
+  title: >-
+    Crooked Barn offers a tranquil stay with 0.4 acres of garden, and with
+    stunning views across to Dartmoor. You won't want to leave!
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
