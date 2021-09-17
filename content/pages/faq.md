@@ -17,11 +17,9 @@ sections:
           to include the dates, number of guests and whether any dogs are coming
           (2 come for free!)
       - title: Can we bring our dog?
-        content: >-
-          Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
-          and any other social media platform you wish to maintain. This
-          includes both posting relevant and interesting content, and replying
-          to questions and comments from your audience.
+        content: >
+          Of course! We love dogs and have made extra special provision by
+          including dog crates etc. Please enquire for further information.
       - title: How do you base your pricing?
         content: >-
           Depending on the scope and timeline of your content needs, we can work
