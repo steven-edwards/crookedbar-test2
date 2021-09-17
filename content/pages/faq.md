@@ -16,7 +16,7 @@ sections:
           response as to whether we can accommodate your booking. Please ensure
           to include the dates, number of guests and whether any dogs are coming
           (2 come for free!)
-      - title: Can you manage our social media?
+      - title: Can we bring our dog?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
           and any other social media platform you wish to maintain. This
