@@ -101,7 +101,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: /images/07afe146-f360-4bed-b7b3-7d7b84c8aeeb.JPG
+        image: /images/cream tea.jpg
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
