@@ -32,11 +32,8 @@ sections:
           Local towns (list em here) are within (list it here) - even put a
           small pic or a link to the A\&A page.
       - title: Anything else i need to know?
-        content: >-
-          You can choose to provide the design yourself, or I can include a
-          design element to your proposal. I work with several wonderful
-          designers with ample experience in web, digital, campaign and
-          marketing design.
+        content: |
+          No, just enjoy yourself!
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
