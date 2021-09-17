@@ -24,7 +24,7 @@ sections:
     background_image_opacity: 8
   - type: features_section
     title: Take a closer look
-    subtitle: Crooked Bar
+    subtitle: Crooked Barn
     features:
       - title: Cosy & Comfortable
         subtitle: Enjoy the fire... (Subtitle)
