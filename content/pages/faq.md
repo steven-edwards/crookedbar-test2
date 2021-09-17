@@ -11,12 +11,11 @@ sections:
   - type: grid_section
     grid_items:
       - title: Do you have availability?
-        content: >-
-          It's important to me to fully understand your business and what you're
-          trying to achieve. I will start with an interview and follow up with a
-          tailored questionnaire. Then, I produce writing samples to make sure
-          we're on the right track. Once we work together, we can make as many
-          revisions as you'd like so that your content is perfect.
+        content: >
+          Please send us a message and we will get back to you with a very quick
+          response as to whether we can accommodate your booking. Please ensure
+          to include the dates, number of guests and whether any dogs are coming
+          (2 come for free!)
       - title: Can you manage our social media?
         content: >-
           Of course! I am happy to manage Twitter, LinkedIn, Instagram, Facebook
