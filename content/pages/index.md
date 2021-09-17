@@ -23,8 +23,10 @@ sections:
     subtitle: >-
       Enjoy a stay at a spectacular original 150+ year old barn, fully restored
       yet with all the modern comforts.
-    content: |
-      text
+    content: >
+      A spacious and rural three bedroom barn converted to a high standard with
+      uninterrupted views across to Dartmoor, all set in beautiful grounds of
+      nearly half an acre.
   - type: features_section
     title: Take a closer look
     subtitle: Crooked Barn
