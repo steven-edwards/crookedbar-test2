@@ -112,12 +112,13 @@ sections:
     title: Testimonials
     subtitle: Don't Just Take Our Word For It...
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
+      - content: >
+          Our stay at the Crooked Barn was just what we needed; from bla bla bla
+          to bla bla bla it was truly a memorable experience. We will return
+          next year!
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Mary Deck,** *Portsmouth, UK*
         image: images/hanson-deck.png
         image_position: left
         image_width: twenty-five
