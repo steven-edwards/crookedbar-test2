@@ -59,7 +59,7 @@ sections:
     subtitle: Crooked Bar
     features:
       - title: Cosy & Comfortable
-        subtitle: Subtitle - indoor shot required
+        subtitle: Enjoy the fire... (Subtitle)
         content: >
           Enjoy a real open fire in a traditional setting. Watch Netflix on your
           own terms! More and more blurb can go here..........
