@@ -63,7 +63,7 @@ sections:
         content: |
           Content here describing the garden etc....
         actions:
-          - label: See Past Work
+          - label: Find Out More
             url: /faq
             style: primary
             has_icon: true
