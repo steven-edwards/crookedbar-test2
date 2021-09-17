@@ -10,7 +10,7 @@ sections:
       - label: Contact Us
         url: /contact
         style: primary
-    image: images/hero.png
+    image: /images/Front.jpeg
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
