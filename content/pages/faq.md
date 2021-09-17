@@ -31,7 +31,7 @@ sections:
         content: >
           Local towns (list em here) are within (list it here) - even put a
           small pic or a link to the A\&A page.
-      - title: Who handles the design?
+      - title: Anything else i need to know?
         content: >-
           You can choose to provide the design yourself, or I can include a
           design element to your proposal. I work with several wonderful
