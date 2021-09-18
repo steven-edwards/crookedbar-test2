@@ -113,10 +113,12 @@ sections:
         image: /images/logo_small_icon_only.png
         image_position: left
         image_width: twenty-five
-      - content: |
-          Wonderful and other superlatives!!!
+      - content: >
+          Lovely cottage, so spacious and well equipped. Visited lots of
+          interesting places.
 
-          **Eleanor Carr,** *Christchurch, Dorset UK*
+
+          **The Drake Family,** *North Yorkshire UK*
         image: /images/logo_small_icon_only.png
         image_position: left
         image_width: twenty-five
