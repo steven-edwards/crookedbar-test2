@@ -123,12 +123,11 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          I love it when i stumble across a gem like this! Kudos to CB for going
-          above and beyond in providing a wonderfully relaxing stay! We loved it
-          so much we've already booked two weeks again for the end of the year!
+          We enjoyed our stay, lovely rural location. Our teenagers loved body
+          boarding at Widemouth. The barn was well equipped and comfortable.
 
 
-          **Gordon Norman,** *Glasgow, UK*
+          **The Norman Family,** *Norwich, UK*
         image: /images/logo_small_icon_only.png
         image_position: left
         image_width: twenty-five
