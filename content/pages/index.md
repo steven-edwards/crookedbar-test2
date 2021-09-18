@@ -82,7 +82,7 @@ sections:
         media_position: right
         media_width: sixty
     feature_padding_vert: large
-    align: center
+    align: right
     background_color: none
   - type: grid_section
     title: Testimonials
