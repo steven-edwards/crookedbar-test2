@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to Crooked Barn!
+    title: Welcome to Crooked Barn
     actions:
       - label: Contact Us
         url: /contact
