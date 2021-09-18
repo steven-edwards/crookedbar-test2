@@ -146,7 +146,7 @@ sections:
       ## Make an enquiry
 
 
-      To find out whether we can accommodate your stay, please contact me using
+      To find out whether we can accommodate your stay, please contact us using
       the form below.
     content_align: left
     form_position: right
