@@ -63,7 +63,7 @@ sections:
             icon_position: right
         image: /images/Rear with views across to Dartmoor.jpeg
         image_alt: Feature 2 illustration
-        media_position: right
+        media_position: left
         media_width: sixty
         align: left
       - title: Stunning Garden
