@@ -100,11 +100,16 @@ sections:
         image_position: left
         image_width: twenty-five
       - content: >
-          Crooked Barn was a truly wonderful stay for us as a family. The beds
-          were great as were the views....
+          Lovely rural converted barn in fabulous setting. Comfortable, home
+          from home. Tastefully updated by current owners - who proved to be
+          very friendly and responsive. Nice touch - the dog box availability,
+          saves having to travel with ours from home. Wonderful welcome hamper
+          on arrival. Great walks from the front door, not too far from fabulous
+          beaches too. Perfect for our group of 6 plus family dog. We could
+          imagine it being lovely and cosy in the winter too. Thank you!
 
 
-          **Miles Tone,** *North Yorkshire, UK*
+          **Amanda,** *Oxfordshire, UK*
         image: /images/logo_small_icon_only.png
         image_position: left
         image_width: twenty-five
