@@ -65,7 +65,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-        align: left
+        align: right
       - title: Stunning Garden
         subtitle: 'Lounging, cream tea, relaxing (Subtitle)'
         content: |
