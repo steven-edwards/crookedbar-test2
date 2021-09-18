@@ -88,12 +88,14 @@ sections:
     subtitle: Don't Just Take Our Word For It...
     grid_items:
       - content: >
-          Our stay at the Crooked Barn was just what we needed; from bla bla bla
-          to bla bla bla it was truly a memorable experience. We will return
-          next year!
+          I’ve stayed in many holiday cottages over the years This is by far the
+          best , most comfortable and most peaceful one I have been to . WiFi is
+          top notch , comfortable beds , powerful showers and I can even get
+          Netflix and Amazon prime on TV . As for the garden simply amazing . I
+          will most certainly be back
 
 
-          **Mary Deck,** *Portsmouth, UK*
+          **James,** *Essex, UK*
         image: /images/logo_small_icon_only.png
         image_position: left
         image_width: twenty-five
