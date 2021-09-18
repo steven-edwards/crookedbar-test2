@@ -26,7 +26,9 @@ sections:
     content: >
       A spacious and rural three bedroom barn converted to a high standard with
       uninterrupted views across to Dartmoor, all set in beautiful grounds of
-      nearly half an acre.
+      nearly half an acre. Come and explore Devon and Cornwall, start on the
+      doorstep! We are right on the border and within easy reach of award
+      winning beaches and rolling moors.
   - type: features_section
     title: Take a closer look
     subtitle: Crooked Barn
