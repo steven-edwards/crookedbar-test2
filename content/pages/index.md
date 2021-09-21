@@ -195,9 +195,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: >-
-        Crooked Barn offers a tranquil stay with 0.4 acres of garden, and with
-        stunning views across to Dartmoor. You won't want to leave!
+      value: Crooked Barn - Rural retreat in Cornwall/Devon border
       keyName: property
     - name: 'og:description'
       value: >-
