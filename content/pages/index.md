@@ -200,7 +200,9 @@ seo:
         stunning views across to Dartmoor. You won't want to leave!
       keyName: property
     - name: 'og:description'
-      value: The preview of the Personal theme
+      value: >-
+        Crooked Barn offers a tranquil stay with 0.4 acres of garden, and with
+        stunning views across to Dartmoor. You won't want to leave!
       keyName: property
     - name: 'og:image'
       value: images/personal-preview.png
