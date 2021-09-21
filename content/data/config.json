@@ -41,7 +41,7 @@
         "has_secondary_nav": false
     },
     "footer": {
-        "logo": "/images/logo_small.png",
+        "logo": "/images/cb1-logo.png",
         "logo_alt": "Personal logo",
         "has_primary_nav": true,
         "primary_nav_links": [
