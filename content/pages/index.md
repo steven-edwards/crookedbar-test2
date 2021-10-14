@@ -37,7 +37,7 @@ sections:
     title: Take a closer look
     subtitle: Crooked Barn
     features:
-      - title: Cosy & Comfortable
+      - title: Living Room
         subtitle: Enjoy the fire... (Subtitle)
         content: >
           Enjoy a real open fire in a traditional setting. Watch Netflix on your
