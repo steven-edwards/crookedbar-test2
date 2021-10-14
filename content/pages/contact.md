@@ -53,7 +53,7 @@ sections:
         options: []
         is_required: false
       - input_type: text
-        name: Date
+        name: Dates required
         label: lorem-ipsum
         default_value: lorem-ipsum
         options:
