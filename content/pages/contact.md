@@ -40,7 +40,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: number
-        name: lorem-ipsum
+        name: Size of party
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
