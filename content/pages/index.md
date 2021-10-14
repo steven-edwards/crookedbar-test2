@@ -142,12 +142,7 @@ sections:
     background_image_size: contain
     background_image_opacity: 12
   - type: form_section
-    content: >
-      ## Make an enquiry
-
-
-      To find out whether we can accommodate your stay, please contact us using
-      the form below.
+    content: "## Make an enquiry\n\nTo find out whether we can accommodate your stay, please contact us using the form below.\n\n\n\n## Where we are\n\nNorthcott, Launceston,\r\nCornwall PL15 9RQ\n"
     content_align: left
     form_position: right
     form_width: fifty
