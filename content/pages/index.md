@@ -31,8 +31,8 @@ sections:
       winning beaches and rolling moors.
 
 
-      > Conveniently positioned on the Devon and Cornwall border. Northcott,
-      Launceston, Cornwall PL15 9RQ.
+      *Conveniently positioned on the Devon and Cornwall border. Northcott,
+      Launceston, Cornwall PL15 9RQ.*
   - type: features_section
     title: Take a closer look
     subtitle: Crooked Barn
