@@ -52,7 +52,7 @@ sections:
         default_value: Will you be bringing any dog(s)? (maximum 2 allowed)
         options: []
         is_required: false
-      - input_type: select
+      - input_type: text
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
