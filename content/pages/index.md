@@ -71,7 +71,7 @@ sections:
         media_position: left
         media_width: sixty
         align: left
-      - title: Stunning Garden
+      - title: Beautiful Garden
         subtitle: 'Lounging, cream teas, relaxing'
         content: >
           Enjoy the large sunny garden with grounds of approximately 0.4 acres,
