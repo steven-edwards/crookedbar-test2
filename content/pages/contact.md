@@ -42,7 +42,6 @@ sections:
       - input_type: number
         name: Size of party
         label: Size of party
-        default_value: lorem-ipsum
         options: []
         is_required: false
       - input_type: textarea
