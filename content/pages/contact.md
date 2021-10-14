@@ -41,7 +41,7 @@ sections:
         is_required: true
       - input_type: number
         name: Size of party
-        label: lorem-ipsum
+        label: Size of party
         default_value: lorem-ipsum
         options: []
         is_required: false
