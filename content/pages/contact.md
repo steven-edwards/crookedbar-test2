@@ -48,7 +48,7 @@ sections:
         default_value: How many people?
       - input_type: checkbox
         name: Dogs
-        label: Will you be bringing any dog(s)? (maximum 2 allowed)
+        label: Will you be bringing a dog(s)? (maximum 2 allowed)
         default_value: Will you be bringing any dog(s)? (maximum 2 allowed)
         options: []
         is_required: false
