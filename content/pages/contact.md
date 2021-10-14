@@ -49,7 +49,7 @@ sections:
       - input_type: checkbox
         name: Dogs
         label: Dogs?
-        default_value: lorem-ipsum
+        default_value: Will you be bringing any dog(s)? (maximum 2 allowed)
         options: []
         is_required: false
       - input_type: textarea
