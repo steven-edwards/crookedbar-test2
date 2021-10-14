@@ -41,7 +41,8 @@ sections:
         subtitle: Cosy & comfortable
         content: >
           Enjoy a real open fire in a traditional setting. Watch Netflix on your
-          own terms! More and more blurb can go here..........
+          own terms on a 50" Freeview Smart TV with a full DVD library of films
+          past and present.
         actions:
           - label: Find Out More
             url: /amenities
