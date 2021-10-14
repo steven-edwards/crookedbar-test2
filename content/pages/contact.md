@@ -44,7 +44,7 @@ sections:
         label: Size of party
         options:
           - lorem-ipsum
-        is_required: false
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
