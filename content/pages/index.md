@@ -39,7 +39,7 @@ sections:
           Enjoy a real open fire in a traditional setting. Watch Netflix on your
           own terms! More and more blurb can go here..........
         actions:
-          - label: F
+          - label: Find Out More
             url: /amenities
             style: primary
             has_icon: true
