@@ -56,7 +56,8 @@ sections:
         name: lorem-ipsum
         label: lorem-ipsum
         default_value: lorem-ipsum
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
       - input_type: textarea
         name: message
