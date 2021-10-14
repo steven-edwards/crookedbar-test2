@@ -46,16 +46,16 @@ sections:
           - lorem-ipsum
         is_required: true
         default_value: How many people?
-      - input_type: text
-        name: lorem-ipsum
-        label: lorem-ipsum
-        default_value: lorem-ipsum
-        options: []
-        is_required: false
       - input_type: checkbox
         name: Dogs
         label: Will you be bringing a dog? (maximum 2 allowed)
         default_value: Will you be bringing any dog(s)? (maximum 2 allowed)
+        options: []
+        is_required: false
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
         options: []
         is_required: false
       - input_type: textarea
