@@ -55,7 +55,7 @@ sections:
       - input_type: text
         name: Dates required
         label: Dates required
-        default_value: lorem-ipsum
+        default_value: Please enter the date you require
         options:
           - lorem-ipsum
         is_required: false
