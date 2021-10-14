@@ -29,6 +29,10 @@ sections:
       nearly half an acre. Come and explore Devon and Cornwall, start on the
       doorstep! We are right on the border and within easy reach of award
       winning beaches and rolling moors.
+
+
+      ###### Conveniently positioned on the Devon and Cornwall border.
+      Northcott, Launceston, Cornwall PL15 9RQ.
   - type: features_section
     title: Take a closer look
     subtitle: Crooked Barn
