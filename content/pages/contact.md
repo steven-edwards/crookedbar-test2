@@ -45,6 +45,7 @@ sections:
         options:
           - lorem-ipsum
         is_required: true
+        default_value: How many people?
       - input_type: textarea
         name: message
         label: Message
