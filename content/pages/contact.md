@@ -58,7 +58,7 @@ sections:
         default_value: Please enter the date you require
         options:
           - lorem-ipsum
-        is_required: false
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
