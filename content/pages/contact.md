@@ -48,7 +48,7 @@ sections:
         default_value: How many people?
       - input_type: checkbox
         name: Will you be bringing any dog(s)? (maximum 2 allowed)
-        label: lorem-ipsum
+        label: Dogs?
         default_value: lorem-ipsum
         options: []
         is_required: false
