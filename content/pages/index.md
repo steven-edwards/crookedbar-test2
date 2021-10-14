@@ -72,7 +72,7 @@ sections:
         media_width: sixty
         align: left
       - title: Stunning Garden
-        subtitle: 'Lounging, cream tea, relaxing (Subtitle)'
+        subtitle: 'Lounging, cream teas, relaxing'
         content: >
           Enjoy the large sunny garden with grounds of approximately 0.4 acres,
           with plenty of outdoor seating, a sheltered patio area and a second
