@@ -55,7 +55,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Stunning Views
-        subtitle: 'Garden, Walks, Views... (Subtitle)'
+        subtitle: 'Garden, Walks, Views...'
         content: >
           With walks taking in miles and miles of stunning views, including
           views across to Dartmoor. You're going to love the area......
