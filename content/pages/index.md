@@ -40,7 +40,7 @@ sections:
           own terms! More and more blurb can go here..........
         actions:
           - label: Have Questions?
-            url: /amen
+            url: /amenities
             style: primary
             has_icon: true
             icon: arrow-right
