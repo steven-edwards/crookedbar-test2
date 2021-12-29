@@ -143,7 +143,7 @@ sections:
   - type: form_section
     content: "## Make an enquiry\n\nTo find out whether we can accommodate your stay, please contact us using the form below.\n\n\n\n## Where we are\n\nNorthcott, Launceston,\r\nCornwall PL15 9RQ\n"
     content_align: left
-    form_position: bottom
+    form_position: right
     form_width: fifty
     form_layout: stacked
     enable_card: true
