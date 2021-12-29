@@ -32,18 +32,30 @@ layout: page
 
 Stunning views over the moors.....
 
-## Local Beaches
+**
+**Bodmin, Dartmoor and Exmoor are all within easy reach.
+
+## **Local Beaches**
+
+In under 30 minutes, you can reach the local beaches at BUDE by car.
 
 ![](/images/local%20beach1.jpg)
 
-Just a 20 minute drive.....
+The beautiful **Summerleaze Beach** is less than five minutes’ walk from the centre of Bude with easy level access to the beach.
 
-Extra paragraph of text....
+Great for watersports, surfing, rock pooling, and features a sheltered sea pool for safe saltwater swimming for all ages.
 
-## Outdoor Swimming
+**Widemouth Bay** is a very long open bay popular with families and surfers and at low tide there are hundreds of rock pools to explore.
+
+It offers fantastic conditions to learn surfing or body-boarding, which is why many of the local surf schools are based there.
+Black Rock at the southern end is dog friendly all year.
+
+In under an hour, you can reach the many beaches and harbour's around the North Cornwall coastline, including Port Isaac, Tintagel and Boscastle.
+
+## **Outdoor Swimming**
 
 ![](/images/local%20beach%202.jpg)
 
-Fancy a dip bla bla bla...
+Sea water pool at Bude....
 
-[Links can go here](/), full layout of text  /  images etc
+Local freshwater lakes at Roadford and Tamar. A 20 or 30 minute drive will take you to enjoy the water sports and walks at both locations, as well as a well earned coffee and cake in the tea room.
