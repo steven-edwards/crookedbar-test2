@@ -53,9 +53,7 @@ sections:
         media_width: sixty
       - title: Stunning Views
         subtitle: 'Garden, Walks, Views...'
-        content: >
-          With walks taking in miles and miles of stunning views, including
-          views across to Dartmoor. You're going to love the area......
+        content: "With nearly half an acre of private secluded grounds, and stunning uninterrupted views across to Dartmoor, you're going to love the area.\r\nThere's doorstep walks taking in miles and miles of countryside, with woodlands and streams, you can leave your car behind for the day.\n\nThere's no crowds or traffic here, just tranquility and nature.\n"
         actions:
           - label: Find Out More
             url: /about
