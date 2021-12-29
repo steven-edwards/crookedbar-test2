@@ -80,7 +80,7 @@
             },
             {
                 "label": "Access Statement",
-                "url": "#",
+                "url": "/access-statement",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
