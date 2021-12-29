@@ -58,3 +58,11 @@ In under an hour, you can reach the many beaches and harbour's around the North 
 Sea water pool at Bude....
 
 Local freshwater lakes at Roadford and Tamar. A 20 or 30 minute drive will take you to enjoy the water sports and walks at both locations, as well as a well earned coffee and cake in the tea room.
+
+
+
+## **Castles and Coves**
+
+Marvel at King Arthurs birthplace at Tintagel Castle.
+Visit the historic castle at Launceston.
+Explore the many coves around the Cornish coastline, all within easy reach.
