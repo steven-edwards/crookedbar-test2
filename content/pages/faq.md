@@ -36,8 +36,11 @@ sections:
           Yes. High speed WiFi is included free as standard with all bookings.
       - title: How far is the barn from the coast?
         content: >
-          Local towns (list em here) are within (list it here) - even put a
-          small pic or a link to the A\&A page.
+          You can be relaxing on the beaches at Bude in under 30 minutes.
+
+
+          Widemouth Bay, famous for it's surfing conditions, is the closet,
+          along with Summerleaze Beach at Bude.
       - title: Anything else i need to know?
         content: |
           No, just enjoy yourself!
