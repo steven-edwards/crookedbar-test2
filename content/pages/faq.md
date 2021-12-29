@@ -41,7 +41,7 @@ sections:
 
           Widemouth Bay, famous for it's surfing conditions, is the closet,
           along with Summerleaze Beach at Bude.
-      - title: Anything else i need to know?
+      - title: Anything else I need to know?
         content: |
           No, just enjoy yourself!
     grid_cols: two
