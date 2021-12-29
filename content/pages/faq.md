@@ -24,6 +24,13 @@ sections:
         content: >
           All bedding, pillows, sheets, duvets are supplied, washed, ironed and
           fresh ready for you when you arrive.
+
+
+          We supply a hand towel and bath towel per person, but please bring
+          your own beach towels.
+
+
+          Tea towels and washing up items are supplied.
       - title: Is there WiFi?
         content: |
           Yes. High speed WiFi is included free as standard with all bookings.
