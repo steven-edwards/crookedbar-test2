@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Access statement
 seo:
   title: ''
   description: ''
