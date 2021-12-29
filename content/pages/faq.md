@@ -20,7 +20,7 @@ sections:
         content: >
           Of course! We love dogs and have made extra special provision by
           including dog crates etc. Please enquire for further information.
-      - title: Is bedding supplied?
+      - title: Is linen supplied?
         content: >
           All bedding, pillows, sheets, duvets are supplied, washed, ironed and
           fresh ready for you when you arrive.
