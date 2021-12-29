@@ -34,9 +34,9 @@ layout: page
 
 A working Rayburn is the highlight for those colder months as you walk into the beautiful open plan kitchen, complimented by all the modern appliances
 
-*   electric hob, oven, fridge-freezer, dishwasher and washing machine.
-    Enjoy some country cooking in the fully equipped kitchen, and relax around the over-sized table.
-    Dine out in the local pub, a pleasant country walk at just over a mile away.
+Electric hob, oven, fridge-freezer, dishwasher and washing machine.
+Enjoy some country cooking in the fully equipped kitchen, and relax around the over-sized table.
+Dine out in the local pub, a pleasant country walk at just over a mile away.
 
 ## Bedrooms
 
