@@ -41,10 +41,15 @@ sections:
         subtitle: Home from Home
         content: |
           Real fire
+
           Rayburn oven for the colder months
+
           Extensive private grounds
+
           Peaceful surroundings
+
           Abundance of nature - owls, pheasants, rabbits
+
           Superfast unlimited WiFi
         actions:
           - label: Find Out More
