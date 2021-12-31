@@ -40,7 +40,7 @@ Dine out in the local pub, a pleasant country walk at just over a mile away.
 
 ## Living Room
 
-![](/images/living-room-2.jpeg)
+![](/images/living-room-4.jpeg)
 
 **Cosy & comfortable**
 
