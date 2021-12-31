@@ -71,7 +71,7 @@ sections:
         content: "Enjoy the large sunny garden with grounds of approximately 0.4 acres, with plenty of outdoor seating, sheltered patio areas, and a second gated garden with a Wildlife pond.\r\nLaze on the swing, or play games on the extensive enclosed lawn. Enjoy a picnic or indulge in a cream tea in the peaceful surroundings.\n\nLay still by the pond and watch for wildlife, or enjoy some pond dipping with the children.\n\nSit around the firepit or BBQ at night, toasting marshmallows and listening to the owls.\r\nBe sure to check out the night sky - the light pollution here is very low and the stars are an amazing sight.\n"
         actions:
           - label: Find Out More
-            url: /faq
+            url: /about
             style: primary
             has_icon: true
             icon: arrow-right
