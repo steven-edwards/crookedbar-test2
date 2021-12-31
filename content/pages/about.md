@@ -38,6 +38,14 @@ Electric hob, oven, fridge-freezer, dishwasher and washing machine.
 Enjoy some country cooking in the fully equipped kitchen, and relax around the over-sized table.
 Dine out in the local pub, a pleasant country walk at just over a mile away.
 
+## Living Room
+
+![](/images/living-room-2.jpeg)
+
+**Cosy & comfortable**
+
+Enjoy relaxing in front of a real fire in a traditional setting. Sit back and play board games or puzzles with the family from the selection available. Curl up watching films on the 50" Freeview Smart TV, choosing from the extensive DVD library provided . There's something for everyone - old and new! Stream from your own Netflix or Amazon Prime accounts. The Wi-Fi included is superfast and unlimited.
+
 ## Bedrooms
 
 ![](/images/bedroom1.jpg)
