@@ -61,7 +61,7 @@ sections:
         image: /images/fire-square-on.jpeg
         image_alt: Feature 1 illustration
         media_position: right
-        media_width: fourty
+        media_width: fifty
       - title: Stunning Views
         subtitle: 'Garden, Walks, Views...'
         content: "With nearly half an acre of private secluded grounds, and stunning uninterrupted views across to Dartmoor, you're going to love the area.\r\nThere's doorstep walks taking in miles and miles of countryside, with woodlands and streams, you can leave your car behind for the day.\n\nThere's no crowds or traffic here, just tranquility and nature.\n"
