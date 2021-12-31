@@ -218,7 +218,15 @@ sections:
           ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         image_alt: lorem-ipsum
         video_embed_html: >-
           Make an enquiryTo find out whether we can accommodate your stay,
