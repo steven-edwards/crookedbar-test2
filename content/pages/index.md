@@ -37,7 +37,7 @@ sections:
     title: Take a closer look
     subtitle: Crooked Barn
     features:
-      - title: Living Room
+      - title: Rural Retreat
         subtitle: Cosy & comfortable
         content: "Enjoy relaxing in front of a real fire in a traditional setting.\r\nSit back and play board games or puzzles with the family from the selection available.\r\nCurl up watching films on the 50\" Freeview Smart TV, choosing from the extensive DVD library provided . There's something for everyone - old and new!\r\nStream from your own Netflix or Amazon Prime accounts. The Wi-Fi included is superfast and unlimited.\n"
         actions:
