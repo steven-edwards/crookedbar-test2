@@ -221,8 +221,11 @@ sections:
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Make an enquiryTo find out whether we can accommodate your stay,
+          please contact us using the form below.Where we areNorthcott,
+          Launceston,
+
+          Cornwall PL15 9RQ
         media_position: top
         media_width: fifty
         align: left
