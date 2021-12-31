@@ -60,7 +60,7 @@ sections:
             icon_position: right
         image: /images/fire-square-on.jpeg
         image_alt: Feature 1 illustration
-        media_position: left
+        media_position: right
         media_width: fourty
       - title: Stunning Views
         subtitle: 'Garden, Walks, Views...'
