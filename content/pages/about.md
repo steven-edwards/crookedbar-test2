@@ -1,5 +1,5 @@
 ---
-title: About
+title: About the barn
 seo:
   title: About
   description: This is the about page
