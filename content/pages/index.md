@@ -50,7 +50,7 @@ sections:
 
           Abundance of nature - owls, pheasants, rabbits
 
-          Superfast unlimited Wi-Fi
+          Superfast unlimited WiFi
         actions:
           - label: Find Out More
             url: /about
