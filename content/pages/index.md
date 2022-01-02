@@ -216,7 +216,9 @@ seo:
     - name: 'twitter:title'
       value: Crooked Bar - Rural retreat in Cornwall/Devon border
     - name: 'twitter:description'
-      value: Preview text
+      value: >-
+        Crooked Barn offers a tranquil stay with 0.4 acres of garden, and with
+        stunning views across to Dartmoor. You won't want to leave!
     - name: 'twitter:image'
       value: /images/Front-5d818da9.jpeg
       relativeUrl: true
