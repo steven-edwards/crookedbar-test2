@@ -218,7 +218,7 @@ seo:
     - name: 'twitter:description'
       value: Preview text
     - name: 'twitter:image'
-      value: images/personal-preview.png
+      value: /images/Front-5d818da9.jpeg
       relativeUrl: true
 layout: advanced
 ---
