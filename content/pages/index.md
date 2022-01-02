@@ -216,7 +216,7 @@ seo:
     - name: 'twitter:title'
       value: Crooked Bar - Rural Retreat
     - name: 'twitter:description'
-      value: The preview of the Personal theme
+      value: Preview text
     - name: 'twitter:image'
       value: images/personal-preview.png
       relativeUrl: true
