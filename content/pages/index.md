@@ -214,7 +214,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Crooked Bar - Rural retreat in Cornwall/Devon border
+      value: Crooked Barn - Rural retreat in Cornwall/Devon border
     - name: 'twitter:description'
       value: >-
         Crooked Barn offers a tranquil stay with 0.4 acres of garden, and with
