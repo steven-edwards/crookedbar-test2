@@ -214,7 +214,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 1 Stackbit Personal Theme
+      value: Crooked Bar
     - name: 'twitter:description'
       value: The preview of the Personal theme
     - name: 'twitter:image'
