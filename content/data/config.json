@@ -155,7 +155,7 @@
         "content": "&copy; Crooked Barn. All rights reserved. Website created with love."
     },
     "announcement": {
-        "has_anncmnt": false,
+        "has_anncmnt": true,
         "anncmnt_content": "We are currently running a special offer (this bar can be turned off) [**Click here to find out more**](/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
