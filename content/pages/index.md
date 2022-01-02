@@ -208,7 +208,7 @@ seo:
         stunning views across to Dartmoor. You won't want to leave!
       keyName: property
     - name: 'og:image'
-      value: images/personal-preview.png
+      value: /images/Front-d9f2d596.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
