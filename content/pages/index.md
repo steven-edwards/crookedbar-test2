@@ -214,7 +214,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Crooked Bar - Rural Retreat
+      value: Crooked Bar - Rural retreat in Cornwall/Devon border
     - name: 'twitter:description'
       value: Preview text
     - name: 'twitter:image'
