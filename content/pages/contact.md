@@ -40,7 +40,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: tel
-        name: Phone Number
+        name: phone
         label: Phone Number
         default_value: Your mobile phone number
         options: []
