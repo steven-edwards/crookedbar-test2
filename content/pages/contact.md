@@ -68,7 +68,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: 'Please provide any further information '
+        default_value: Please provide any further information relevant to your booking.
       - input_type: checkbox
         name: consent
         label: >-
