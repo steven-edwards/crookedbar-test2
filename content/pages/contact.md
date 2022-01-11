@@ -40,7 +40,7 @@ sections:
         default_value: Your email address
         is_required: true
       - input_type: tel
-        name: lorem-ipsum
+        name: Phone Number
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
