@@ -68,7 +68,7 @@ sections:
       - input_type: textarea
         name: message
         label: Message
-        default_value: Your message
+        default_value: 'Please provide any further information '
       - input_type: checkbox
         name: consent
         label: >-
