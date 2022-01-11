@@ -41,7 +41,7 @@ sections:
         is_required: true
       - input_type: tel
         name: phone
-        label: Phone Number
+        label: Phone number
         default_value: Your mobile phone number
         options: []
         is_required: false
