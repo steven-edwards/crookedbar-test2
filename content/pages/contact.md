@@ -44,7 +44,7 @@ sections:
         label: Phone number
         default_value: Your mobile phone number
         options: []
-        is_required: false
+        is_required: true
       - input_type: number
         name: Size of party
         label: Size of party
