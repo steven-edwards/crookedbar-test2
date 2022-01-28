@@ -156,7 +156,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "New years special offer [**Click here to find out more**](/offer)\n",
+        "anncmnt_content": "Short stay special offer [**Click here to find out more**](/offer)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
