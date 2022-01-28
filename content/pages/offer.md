@@ -25,4 +25,7 @@ seo:
         content
 layout: page
 ---
-##### 2 or 3 night weekends at Crooked Barn from just  £498 for up to six persons, that’s only £83 per person! Wow!&#xA;Holiday bookings only, no parties or events!
+##### 2 or 3 night stays at Crooked Barn for only £83 per person, per stay! Wow!
+
+
+Holiday bookings only, no parties or events!
