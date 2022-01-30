@@ -2,7 +2,7 @@
 title: Short Stay Special Offer
 seo:
   title: Special Offers
-  description: A reference for suggested typographic treatment and styles for your content
+  description: This is where all our special offers go
   extra:
     - name: 'og:type'
       value: website
@@ -25,6 +25,7 @@ seo:
         content
 layout: page
 ---
-##### 2 or 3 night stays from £498, at Crooked Barn for only £83 per person, per stay! Wow!
+##### 2 or 3 night stays at Crooked Barn for only £83 per person, per stay! Wow!
+
 
 Holiday bookings only, no parties or events!
