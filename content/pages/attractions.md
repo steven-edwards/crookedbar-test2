@@ -1,7 +1,7 @@
 ---
 title: Attractions
 seo:
-  title: About
+  title: Attractions
   description: This is the about page
   extra:
     - name: 'og:type'
