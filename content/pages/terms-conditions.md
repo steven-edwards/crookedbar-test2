@@ -25,18 +25,13 @@ A full copy of the Terms and Conditions of rental will be sent prior to securing
 
 **Summary of booking terms:**
 
-*   Payments made to secure the booking are deemed to be an acceptance of the full terms and     conditions.
-
 *   A non-refundable 25% deposit of the holiday cost is payable at the time of booking.
 
-*   The balance must be paid no later than six weeks before the commencement of your     holiday.
+*   The balance must be paid no later than six weeks before the commencement of your    holiday.
 
 *   Bookings made less than six weeks before your arrival date must be paid in full.
 
 *   There is a refundable security deposit of £150, payable 14 days prior to arrival.
-
-*   A contract between you and the owner will come into existence when payment is received
-    and a booking confirmation is issued showing the confirmed holiday dates.
 
 *   Bookings are strictly prohibited if they are to a company, a business or for business purposes
     in whole or in part
