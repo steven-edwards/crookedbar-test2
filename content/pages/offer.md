@@ -33,4 +33,4 @@ Holiday bookings only, no parties or events!
 
 #### **Feb Half Term Offer**
 
-7 nights for £750!! That’s only £125pp for the week when six stay!! Or under £18pppn !! Grab it while it’s still available!
+7 nights for £699!! That’s only £100pp for the week when six stay!! Or £14.29pppn !! Grab it while it’s still available!
