@@ -25,6 +25,8 @@ seo:
         content
 layout: page
 ---
-##### 2 or 3 night stays for six guests from £498. That’s only £83 per person, per stay! Wow!
+# **Short Stay Offer**
+
+2 or 3 night stays for six guests from £498. That’s only £83 per person, per stay! Wow!
 
 Holiday bookings only, no parties or events!
