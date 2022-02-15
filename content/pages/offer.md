@@ -1,5 +1,5 @@
 ---
-title: Special Offers
+title: Current Special Offers
 seo:
   title: Special Offers
   description: This is where all our special offers go
