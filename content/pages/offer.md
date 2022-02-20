@@ -30,7 +30,3 @@ layout: page
 2 or 3 night stays for six guests from £498. That’s only £83 per person, per stay! Wow!
 
 Holiday bookings only, no parties or events!
-
-#### **Feb Half Term Offer**
-
-7 nights for £699!! That’s only £100pp for the week when six stay!! Or £14.29pppn !! Grab it while it’s still available!
