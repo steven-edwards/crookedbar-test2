@@ -30,9 +30,9 @@ layout: page
 ---
 ![](/images/View%20over%20moors.jpg)
 
-Stunning views across to Dartmoor...
+Stunning views across to Dartmoor.
 
-Bodmin, Dartmoor and Exmoor are all within easy reach...
+Bodmin, Dartmoor and Exmoor are all within easy reach.
 
 ## **Local Beaches**
 
