@@ -32,7 +32,7 @@ layout: page
 
 Stunning views across to Dartmoor...
 
-Bodmin, Dartmoor and Exmoor are all within easy reach.
+Bodmin, Dartmoor and Exmoor are all within easy reach...
 
 ## **Local Beaches**
 
