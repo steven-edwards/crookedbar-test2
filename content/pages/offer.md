@@ -29,4 +29,9 @@ layout: page
 
 2 or 3 night stays for six guests from £498. That’s only £83 per person, per stay! Wow!
 
+Get away from it all with a very special offer for the summer season ✨
+
+7 nights from just £845 ✨
+Short breaks available 
+
 Holiday bookings only, no parties or events!
