@@ -34,4 +34,6 @@ Get away from it all with a very special offer for the summer season ✨
 7 nights from just £845 ✨
 Short breaks available 
 
+⭐️25% off June breaks⭐️
+
 Holiday bookings only, no parties or events!
